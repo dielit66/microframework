@@ -1,0 +1,5 @@
+package microframework
+
+func main() {
+
+}
